@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intensivao.Fullstack.ConsoleApp", "Intensivao.Fullstack.ConsoleApp\Intensivao.Fullstack.ConsoleApp.csproj", "{D48ED2A3-40B9-48A9-9F3B-54086C681B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48ED2A3-40B9-48A9-9F3B-54086C681B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48ED2A3-40B9-48A9-9F3B-54086C681B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48ED2A3-40B9-48A9-9F3B-54086C681B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48ED2A3-40B9-48A9-9F3B-54086C681B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282BCB16-3B5C-487D-9C4C-2D459C33E720}
+	EndGlobalSection
+EndGlobal
